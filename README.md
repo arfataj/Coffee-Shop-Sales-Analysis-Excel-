@@ -1,5 +1,6 @@
 # Coffee-Shop-Sales-Analysis-Excel-
 
+
 ## Objective
 
 To analyze retail sales data to uncover valuable insights that can drive informed decision-making and improve the overall performance of the Coffee Shop.
@@ -14,19 +15,19 @@ Determine the overall sales revenue generated each month to identify seasonal tr
 ### -> Sales Patterns by Day of the Week and Hour of the Day:
 Analyze how sales fluctuate depending on the day of the week and time of day, helping to understand peak business hours.
 
-Peak Sales Activity Times:
+### -> Peak Sales Activity Times:
 Identify any specific times or days when sales are highest, enabling the Coffee Shop to staff accordingly and optimize inventory.
 
-Sales Performance by Store Location:
+### -> Sales Performance by Store Location:
 Compare sales across different store locations to identify top-performing areas and areas that may require improvement.
 
-Average Price per Order/Customer:
+### -> Average Price per Order/Customer:
 Calculate the average amount spent by each customer per order to evaluate pricing strategies and customer purchasing behavior.
 
-Top-Selling Products by Quantity and Revenue:
+### -> Top-Selling Products by Quantity and Revenue:
 Identify which products are the best-sellers in terms of both quantity sold and revenue generated, helping to optimize product offerings.
 
-Sales by Product Category and Type:
+### -> Sales by Product Category and Type:
 Analyze sales performance based on product categories to identify popular items and potential areas for expansion.
 
 
