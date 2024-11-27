@@ -8,10 +8,10 @@ To analyze retail sales data to uncover valuable insights that can drive informe
 
 The following key areas are analyzed to provide a comprehensive view of sales trends and an interactive dashboard using excel is created with the same:
 
-### Total Sales Revenue by Month:
+### -> Total Sales Revenue by Month:
 Determine the overall sales revenue generated each month to identify seasonal trends and track growth.
 
-Sales Patterns by Day of the Week and Hour of the Day:
+### -> Sales Patterns by Day of the Week and Hour of the Day:
 Analyze how sales fluctuate depending on the day of the week and time of day, helping to understand peak business hours.
 
 Peak Sales Activity Times:
