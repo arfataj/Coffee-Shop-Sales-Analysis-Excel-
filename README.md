@@ -1,5 +1,7 @@
 # Coffee-Shop-Sales-Analysis-Excel-
 
+![image](https://github.com/user-attachments/assets/34a64e8a-7066-4fe3-89ad-3762cfcf6250)
+
 
 ## Objective
 
