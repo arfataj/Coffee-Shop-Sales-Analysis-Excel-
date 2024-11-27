@@ -4,11 +4,11 @@
 
 To analyze retail sales data to uncover valuable insights that can drive informed decision-making and improve the overall performance of the Coffee Shop.
 
-Recommended Analysis
+## Recommended Analysis
 
 The following key areas are analyzed to provide a comprehensive view of sales trends and an interactive dashboard using excel is created with the same:
 
-Total Sales Revenue by Month:
+### Total Sales Revenue by Month:
 Determine the overall sales revenue generated each month to identify seasonal trends and track growth.
 
 Sales Patterns by Day of the Week and Hour of the Day:
