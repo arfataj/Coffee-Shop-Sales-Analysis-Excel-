@@ -1,6 +1,6 @@
 # Coffee-Shop-Sales-Analysis-Excel-
 
-Objective
+## Objective
 
 To analyze retail sales data to uncover valuable insights that can drive informed decision-making and improve the overall performance of the Coffee Shop.
 
